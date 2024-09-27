@@ -20,4 +20,4 @@ The project contains the following files:
 1. Clone or download the repository to your local machine.
    
    ```bash
-   git clone 
+   git clone https://github.com/ligdevaidehi/Coursera_repo.git
